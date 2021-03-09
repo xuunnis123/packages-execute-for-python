@@ -4,7 +4,7 @@ import http.client
 conn = http.client.HTTPSConnection("api.zoom.us")
 
 headers = {
-    'authorization': "Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJhdWQiOm51bGwsImlzcyI6ImVKQTU1QzhUVDZLUE1HTW9VcnhmREEiLCJleHAiOjE2MTU4ODQ0NDQsImlhdCI6MTYxNTI3OTY0NX0._ha_XlliNPex8DRnKKLgRcFvwM7o7rA7zk69FVIcy4g",
+    'authorization': "Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzImVYxNTI3OTY0NX0._ha_X69FVIcy4g",
     'content-type': "application/json"
     }
 
